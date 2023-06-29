@@ -26,3 +26,6 @@ kaggle免费服务器全攻略 审核中
 5.    以后每次使用直接开四个chrome中随便一个,然后等kaggle,就自动登陆账号了.  (这些操作不需要翻墙了,因为chrome已经记录了登陆信息!!!!!!)
 
 　　这样我们1周gpu时间就160小时了.并且他们互相不干扰,并行欧耶.
+ 6.   kaggle离线方法:
+
+　　http://www.zhangshiyu.com/post/61566.html
